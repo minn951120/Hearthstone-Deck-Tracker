@@ -551,7 +551,7 @@ namespace Hearthstone_Deck_Tracker
 			if(!path.StartsWith("/"))
 				url += "/";
 			url += path;
-			if(!path.EndsWith("/"))
+			if(!url.EndsWith("/"))
 				url += "/";
 			return url + GetHsReplayNetUrlParams(campaign);
 		}
