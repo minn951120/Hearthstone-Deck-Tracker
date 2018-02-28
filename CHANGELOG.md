@@ -1,3 +1,14 @@
+## __Release vNext__
+
+__New__:
+- Added support to sync the collection with HSReplay.net.
+
+__Fixes:__:
+- Fixed an issue where mulliganed cards would sometimes be out of order in the deck list.
+- Fixed an issue where Weasel Tunneler was not tracked correctly.
+- Fixed an issue with card name font on the flavor text panel.
+
+
 ## __Release v1.5.12 - 2018-02-06__
 __Updated for Hearthstone 10.2.0.23180__
 
